@@ -1,0 +1,2 @@
+Created with help from a youtube video by user Bro Code, https://www.youtube.com/watch?v=bI6e6qjJ8JQ&t=240s
+Added various functionalities such as preventing apples from spawning on squares that the snake's tail is currently on
